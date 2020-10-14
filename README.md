@@ -1,1 +1,2 @@
-# funtion-argument
+# collisionAlgorithm
+Algorithm to detect collision between two objects
